@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## 변수 설정
-EXECUTION_PATH=/home/ubuntu/nextstep/infra-subway-mornitoring
+EXECUTION_PATH=/home/ubuntu/nextstep/infra-subway-monitoring
 BRANCH=$1
 PROFILE=$2
 PROJECT_NAME=subway
